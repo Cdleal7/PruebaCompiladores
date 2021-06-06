@@ -1,0 +1,10 @@
+C:\Users\Josue\Workspace\compiladores\Minicompilador\Minicompilador\bin\Debug\Minicompilador.exe.config
+C:\Users\Josue\Workspace\compiladores\Minicompilador\Minicompilador\bin\Debug\Minicompilador.exe
+C:\Users\Josue\Workspace\compiladores\Minicompilador\Minicompilador\bin\Debug\Minicompilador.pdb
+C:\Users\Josue\Workspace\compiladores\Minicompilador\Minicompilador\obj\Debug\Minicompilador.csprojAssemblyReference.cache
+C:\Users\Josue\Workspace\compiladores\Minicompilador\Minicompilador\obj\Debug\Minicompilador.Properties.Resources.resources
+C:\Users\Josue\Workspace\compiladores\Minicompilador\Minicompilador\obj\Debug\Minicompilador.csproj.GenerateResource.cache
+C:\Users\Josue\Workspace\compiladores\Minicompilador\Minicompilador\obj\Debug\Minicompilador.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Workspace\compiladores\Minicompilador\Minicompilador\obj\Debug\Minicompilador.exe
+C:\Users\Josue\Workspace\compiladores\Minicompilador\Minicompilador\obj\Debug\Minicompilador.pdb
+C:\Users\Josue\Workspace\compiladores\Minicompilador\Minicompilador\obj\Debug\Minicompilador.principal.resources

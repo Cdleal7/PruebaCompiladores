@@ -1,0 +1,10 @@
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Mini_Compilador.csprojAssemblyReference.cache
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Mini_compilador.principal.resources
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Minicompilador.Properties.Resources.resources
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Mini_Compilador.csproj.GenerateResource.cache
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Mini_Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Minicompilador.exe
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Minicompilador.pdb
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\bin\Debug\Minicompilador.exe.config
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\bin\Debug\Minicompilador.exe
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\bin\Debug\Minicompilador.pdb
